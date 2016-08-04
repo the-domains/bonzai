@@ -1,0 +1,14 @@
+layout_spectrum: 0.8293373186606914
+typography_spectrum: 0.9715493528638035
+color:
+  brandStrength: 0.13687816634774208
+  lightness: 0.05751414643600583
+  saturation: 0.9497424778528512
+  rhythmicContrast: 0.7838162595871836
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: bonzai
